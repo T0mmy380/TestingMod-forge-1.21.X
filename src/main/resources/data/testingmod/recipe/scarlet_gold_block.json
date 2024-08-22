@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "testingmod:scarlet_gold"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "testingmod:scarlet_gold_block"
+  }
+}
