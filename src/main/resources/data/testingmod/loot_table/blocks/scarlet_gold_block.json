@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "testing:scarlet_gold_block"
+          "name": "testingmod:scarlet_gold_block"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "testing:blocks/scarlet_gold_block"
+  "random_sequence": "testingmod:blocks/scarlet_gold_block"
 }
